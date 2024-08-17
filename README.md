@@ -36,7 +36,7 @@
   <a href="https://codepen.io/furry_rocky" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="codepen logo"  />
   </a>
-  <a href=" https://stackoverflow.com/users/26853343/furry-rocky" target="_blank">
+  <a href="https://stackoverflow.com/users/26853343/furry-rocky" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="stackoverflow logo"  />
   </a>
 </div>
