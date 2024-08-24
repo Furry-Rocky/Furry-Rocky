@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://downloader.disk.yandex.ru/preview/a410a08b20f870d075557ca8f24ab52d9c38ab0c1a63bfcc634f3509de063671/66c01e80/ab8M68FVgKtsNO54reYzoX4zt0_mNYwC16FKoQEudaOjbqqHJOY378BhxaqhEmELxtRr_VpoaRnqL0xUknwD4g%3D%3D?uid=0&filename=Logo_Discord.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048"  />
+  <img height="200" src="https://drive.google.com/file/d/1MXZlzr2aQ2YNAvRMSNDkQzTYoSkelTqI/view"  />
 </div>
 
 ###
